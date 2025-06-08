@@ -1,0 +1,525 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (MQ9T3RX/A)",
+    "brand": "Apple",
+    "category": "Smartphone",
+    "description": "The iPhone 14 Pro Max offers cutting-edge performance with the A16 Bionic chip. Stunning 48MP camera captures detailed photos. Gorgeous Deep Purple finish adds a premium touch. Ideal for users seeking power and elegance.",
+    "price": 900,
+    "old_price": 1000,
+    "img": "images/products/Iphone 14 pro 1.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1.png",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "user": "Ahmed Said",
+        "avatar": "https://i.pravatar.cc/100?img=1",
+        "comment": "Honestly, the iPhone 14 Pro Max is a masterpiece. Its camera produces professional-quality photos and videos, and its performance is incredibly smooth no matter how many apps I open. The Deep Purple color is very elegant and adds a touch of luxury. This device is worth every penny."
+      },
+      {
+        "user": "Fatma El-Zahraa",
+        "avatar": "https://i.pravatar.cc/100?img=2",
+        "comment": "The battery life is astonishing! It lasts me all day with intensive use, and I only need to charge it at night. Its screen colors are vibrant and easy on the eyes. The overall user experience is excellent, and I really felt a significant difference from my old mobile. I recommend it to anyone looking for a reliable phone."
+      },
+      {
+        "user": "Mahmoud Ali",
+        "avatar": "https://i.pravatar.cc/100?img=3",
+        "comment": "The A16 Bionic processor is a rocket! Everything opens at lightning speed, and there's no lag whatsoever. The 48-megapixel camera captures incredible details in photos, especially in low light. This phone is designed for those who heavily use their devices and love modern technology."
+      },
+      {
+        "user": "Reem Khaled",
+        "avatar": "https://i.pravatar.cc/100?img=4",
+        "comment": "The device's design is very sleek and lightweight for its size. The gaming experience on it is excellent, and it doesn't heat up easily. The sound is clear and powerful. Frankly, there's nothing I can complain about. Apple always amazes us with its products."
+      },
+      {
+        "user": "Youssef Mohamed",
+        "avatar": "https://i.pravatar.cc/100?img=5",
+        "comment": "The ProMotion display makes Browse and switching between apps incredibly smooth and easy on the eyes. The Dynamic Island feature is innovative and adds both aesthetic and functional value to the phone. This device offers a complete and very enjoyable user experience. I highly recommend it to all Apple enthusiasts."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Blackmagic Pocket Cinema Camera 6k",
+    "brand": "Samsung",
+    "category": "Camera",
+    "description": "Shoot professional-quality videos with the 6K Pocket Cinema Camera. Designed for filmmakers who want cinematic depth and dynamic range. Lightweight, compact, and packed with features. A game changer in portable production.",
+    "price": 2535,
+    "old_price": 2600,
+    "img": "images/products/Iphone 14 pro 1-1.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-1.png",
+    "rating": 3.7,
+    "reviews": [
+      {
+        "rating": 3.5,
+        "user": "Ali Gamal",
+        "avatar": "https://i.pravatar.cc/100?img=6",
+        "comment": "This Blackmagic Pocket Cinema Camera 6K has completely changed the way I work. The cinematic image quality it produces is superb, and its dynamic range allows me to shoot in any lighting conditions. Its small size makes it easy to carry and perfect for on-the-go filming."
+      },
+      {
+        "rating": 3.1,
+        "user": "Nour Hany",
+        "avatar": "https://i.pravatar.cc/100?img=7",
+        "comment": "For its price, this camera offers incredible value for both professionals and amateurs alike. Blackmagic RAW makes video editing incredibly easy and provides unbelievable flexibility in post-production. I recommend it to anyone starting in filmmaking."
+      },
+      {
+        "rating": 4.5,
+        "user": "Khaled Mostafa",
+        "avatar": "https://i.pravatar.cc/100?img=8",
+        "comment": "Its ease of use is surprising for a professional camera like this. The menus are clear, and controls are easily accessible. Its touchscreen is excellent and greatly helps with focusing and adjusting settings quickly. The shooting experience with it is very enjoyable."
+      },
+      {
+        "rating": 4.7,
+        "user": "Laila Samir",
+        "avatar": "https://i.pravatar.cc/100?img=9",
+        "comment": "The 6K resolution makes a huge difference in video detail and final quality. You can crop video without losing quality, which is a fantastic feature. This camera is worth every dollar, and I'm very happy with my purchase."
+      },
+      {
+        "rating": 2.5,
+        "user": "Ayman Fouad",
+        "avatar": "https://i.pravatar.cc/100?img=10",
+        "comment": "Frankly, this camera competes with much more expensive cameras. Its low-light performance is very good, and it produces natural and beautiful colors. If you want to shoot high-quality professional content on a reasonable budget, this is the camera for you."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Series 9 GPS 41mm Starlight Aluminium Case",
+    "brand": "Apple",
+    "category": "SmartWatch",
+    "description": "Sleek, lightweight smartwatch with GPS and seamless connectivity. Track your health, fitness, and notifications on the go. Durable aluminium build with a stylish starlight finish. Ideal for everyday smart convenience.",
+    "price": 900,
+    "old_price": 950,
+    "img": "images/products/Iphone 14 pro 1-2.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-2.png",
+    "rating": 3.9,
+    "reviews": [
+      {
+        "rating": 5,
+        "user": "Karim Mansour",
+        "avatar": "https://i.pravatar.cc/100?img=11",
+        "comment": "This Apple Watch Series 9 is excellent for daily use and fitness tracking. It's light on the wrist and you barely feel it, and it looks very chic in the Starlight color. Notifications arrive quickly on the watch, making it much easier to answer calls and messages without taking out my phone."
+      },
+      {
+        "rating": 3.5,
+        "user": "Hana Said",
+        "avatar": "https://i.pravatar.cc/100?img=12",
+        "comment": "Sleep and activity tracking are very accurate. I can monitor my heart rate and blood oxygen levels, which gives me peace of mind about my health. The battery lasts a full day with moderate use, which is very good for its capabilities. Great value for money."
+      },
+      {
+        "rating": 2.5,
+        "user": "Amr Yassin",
+        "avatar": "https://i.pravatar.cc/100?img=13",
+        "comment": "The best feature is the built-in GPS; I can run and record distance and speed without needing to take my phone with me. Its water resistance is also excellent; I can wear it in the pool without worry. A great addition to my fitness routine."
+      },
+      {
+        "rating": 3.5,
+        "user": "Sara Ibrahim",
+        "avatar": "https://i.pravatar.cc/100?img=14",
+        "comment": "The health and workout apps are very comprehensive. I can challenge my friends and see my progress. Its screen is bright and clear even in direct sunlight. If you're looking for a complete smartwatch, this is your top choice."
+      },
+      {
+        "rating": 4,
+        "user": "Fady Hussein",
+        "avatar": "https://i.pravatar.cc/100?img=15",
+        "comment": "Connectivity with the iPhone is very smooth, no issues at all. I can control music and the camera from the watch, which is a very practical feature. Its aluminum build makes it durable and scratch-resistant. Overall, an excellent user experience."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AirPods Max Silver",
+    "brand": "Sony",
+    "category": "Headphone",
+    "description": "Experience immersive sound with AirPods Max's industry-leading noise cancellation. Elegant design with premium materials. Rich bass and crisp highs for true audio lovers. Built for comfort during long listening sessions.",
+    "price": 900,
+    "old_price": 950,
+    "img": "images/products/Iphone 14 pro 1-3.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-3.png",
+    "rating": 4.5,
+    "reviews": [
+      {
+        "rating": 5,
+        "user": "Samy Magdy",
+        "avatar": "https://i.pravatar.cc/100?img=16",
+        "comment": "These AirPods Max are a true masterpiece, and their sound is astounding! The noise cancellation is extraordinary; it makes you feel like you're alone in a perfectly quiet space, completely immersed in your music or movie. The materials used are luxurious and comfortable on the ears, even after hours of use. They're worth every penny."
+      },
+      {
+        "rating": 2.4,
+        "user": "Noha Adel",
+        "avatar": "https://i.pravatar.cc/100?img=17",
+        "comment": "The sound quality is incredibly clear, with powerful bass and crisp highs. The music listening experience is completely different with them. Also, the Transparency Mode is very useful when I need to hear my surroundings without taking off the headphones. Their design is elegant and unique."
+      },
+      {
+        "rating": 4.5,
+        "user": "Tarek Mahmoud",
+        "avatar": "https://i.pravatar.cc/100?img=18",
+        "comment": "Their comfort is extraordinary; I can wear them for long hours without any discomfort. The Spatial Audio creates a sensation as if the sound is coming from every direction, which makes a huge difference when watching movies. Connectivity with Apple devices is very fast and seamless. Truly an exceptional audio experience."
+      },
+      {
+        "rating": 4,
+        "user": "Dalia Sabry",
+        "avatar": "https://i.pravatar.cc/100?img=19",
+        "comment": "The headphone's battery lasts for a very long time, which means I don't have to worry about it dying halfway through the day. Its smart case helps preserve battery life when you put them inside. There's no sound distortion even in noisy environments. I highly recommend them to all music lovers."
+      },
+      {
+        "rating": 3.5,
+        "user": "Emad Reda",
+        "avatar": "https://i.pravatar.cc/100?img=20",
+        "comment": "Call quality is excellent; the other party can hear me clearly even in crowded places. The ease of controlling volume and calls through the digital crown is very convenient. Truly a great investment in sound quality and comfort."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Samsung Galaxy Watch6 Classic 47mm Black",
+    "brand": "Sony",
+    "category": "SmartWatch",
+    "description": "Classic yet modern smartwatch built for performance. Crisp AMOLED display with long battery life. Tracks health, sleep, and workouts in detail. A perfect companion for daily use and active lifestyles.",
+    "price": 368,
+    "old_price": 499,
+    "img": "images/products/Iphone 14 pro 1-4.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-4.png",
+    "rating": 3.2,
+    "reviews": [
+      {
+        "rating": 4.5,
+        "user": "Ayman Said",
+        "avatar": "https://i.pravatar.cc/100?img=21",
+        "comment": "This Samsung Galaxy Watch6 Classic has a very sleek design that suits any style. Its AMOLED screen has amazing and very clear colors. The battery lasts me two days with normal use, which is excellent for a smartwatch with these capabilities. Sleep and sports activity tracking are very accurate."
+      },
+      {
+        "rating": 3.5,
+        "user": "Mariam Hossam",
+        "avatar": "https://i.pravatar.cc/100?img=22",
+        "comment": "The rotating bezel on this watch is a fantastic feature that makes navigating menus very easy and enjoyable. I can answer calls and messages from the watch without taking out my phone, which is very convenient at work. This watch is truly an ideal companion for a healthy and active lifestyle."
+      },
+      {
+        "rating": 3.2,
+        "user": "Fares Kamal",
+        "avatar": "https://i.pravatar.cc/100?img=23",
+        "comment": "Heart rate and blood oxygen level tracking helps me stay informed about my health all the time. Also, notifications arrive on time, and I don't miss anything important. The watch is water-resistant, so I can wear it anywhere without worry."
+      },
+      {
+        "rating": 2.5,
+        "user": "Dina Ali",
+        "avatar": "https://i.pravatar.cc/100?img=24",
+        "comment": "The health and fitness apps are very comprehensive and provide detailed analyses of my performance. The watch is light and comfortable on the wrist; I don't feel it throughout the day. I recommend it to anyone who wants a practical and elegant smartwatch at the same time."
+      },
+      {
+        "rating": 4.3,
+        "user": "Islam Reda",
+        "avatar": "https://i.pravatar.cc/100?img=25",
+        "comment": "The watch's performance is very fast, with no lag whatsoever. Connectivity with the phone is smooth and trouble-free. This watch provides an excellent user experience whether you're an athlete or just looking for a smartwatch to help you through your day. Its price is also very reasonable for its capabilities."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+    "brand": "Sony",
+    "category": "Headphone",
+    "description": "Revolutionary foldable phone with a massive 7.6-inch display. Multitask effortlessly with PC-like performance in your hand. Durable hinge and sleek Phantom Black finish. The future of mobile productivity is here.",
+    "price": 1799,
+    "old_price": 1900,
+    "img": "images/products/Iphone 14 pro 1-5.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-5.png",
+    "rating": 3.8,
+    "reviews": [
+      {
+        "rating": 4.2,
+        "user": "Marwan Tarek",
+        "avatar": "https://i.pravatar.cc/100?img=26",
+        "comment": "This Samsung Galaxy Z Fold 5 is a game-changer in the world of mobile phones. The massive 7.6-inch display, when unfolded, gives you a tablet-like experience, perfect for multitasking and watching content. Its performance is incredibly fast, like having a computer in your hand. Frankly, it's the best phone I've used for studying and working."
+      },
+      {
+        "rating": 5,
+        "user": "Heba Karam",
+        "avatar": "https://i.pravatar.cc/100?img=27",
+        "comment": "The device's design is very sleek, and the Phantom Black color adds a touch of luxury. The hinge is very durable and you don't even feel it. The camera experience is excellent, and it takes very high-quality photos. This phone is truly for the future."
+      },
+      {
+        "rating": 4.1,
+        "user": "Omar Samir",
+        "avatar": "https://i.pravatar.cc/100?img=28",
+        "comment": "The ability to open multiple apps simultaneously on the large screen is an invaluable feature for productivity. You can browse the internet, watch a video, and chat with friends all at the same time with ease. Its battery lasts a full day of intensive use."
+      },
+      {
+        "rating": 4.9,
+        "user": "Noura Magdy",
+        "avatar": "https://i.pravatar.cc/100?img=29",
+        "comment": "This phone changed my perception of mobile phones. It's not just a phone; it's a complete device for work and entertainment. Its outer screen is very practical for quick use, and the inner screen opens up new possibilities. I recommend it to anyone who wants a different and advanced user experience."
+      },
+      {
+        "rating": 4.3,
+        "user": "Hassan Elsayed",
+        "avatar": "https://i.pravatar.cc/100?img=30",
+        "comment": "Despite its price, it's worth every penny you pay. Its quality is excellent in everything, from the screen to the performance to the durability. The sound is very clear, and the gaming experience on it is superb. Truly a device that changes the rules of the game."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Apple iPhone 14 Pro 512GB Gold (MQ233)",
+    "brand": "Apple",
+    "category": "Phone",
+    "description": "Premium flagship iPhone with massive 512GB storage. Designed for heavy users and professionals. Exceptional camera, fluid performance, and stylish gold finish. Delivers power, elegance, and capacity in one.",
+    "price": 1437,
+    "old_price": 1550,
+    "img": "images/products/Iphone 14 pro 512gb.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 512gb.png",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "rating": 2.5,
+        "user": "Khaled Amin",
+        "avatar": "https://i.pravatar.cc/100?img=31",
+        "comment": "This iPhone 14 Pro 512GB in gold is the pinnacle of luxury and performance! The massive storage means I never have to worry about running out of space for photos, videos, or apps. Its camera quality is beyond imagination, producing professional-grade photos in any lighting condition. It's the ideal device for anyone who uses their phone for everything."
+      },
+      {
+        "rating": 3.5,
+        "user": "Maha Rushdy",
+        "avatar": "https://i.pravatar.cc/100?img=32",
+        "comment": "The performance of this device is unparalleled; everything runs incredibly smoothly and fast. Its gold color is very attractive and gives a luxurious feel when you hold it. Its battery is excellent and lasts me all day even with heavy use. I recommend it for anyone who uses their phone extensively for work or photography."
+      },
+      {
+        "rating": 3.7,
+        "user": "Alia Kamal",
+        "avatar": "https://i.pravatar.cc/100?img=33",
+        "comment": "The ProMotion Display makes a huge difference in Browse and gaming experience. The colors on the screen are stunning, and the Dynamic Island is an innovative and useful addition. This device truly combines power, elegance, and large storage capacity. I can't imagine living without it."
+      },
+      {
+        "rating": 4.1,
+        "user": "Hossam El-Din",
+        "avatar": "https://i.pravatar.cc/100?img=34",
+        "comment": "If you're looking for a phone that will last you for years and withstand heavy use, this iPhone is the perfect choice. It's very durable, and its build quality is excellent. It can handle minor bumps and still look new. A true value for money."
+      },
+      {
+        "rating": 4.5,
+        "user": "Nada Samy",
+        "avatar": "https://i.pravatar.cc/100?img=35",
+        "comment": "The photos coming out of its camera are literally printable as posters. Unbelievable detail and color accuracy. The device doesn't heat up even with long periods of photography or gaming. It's truly a complete and unique device."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Galaxy Buds FE Graphite",
+    "brand": "Sony",
+    "category": "Headphone",
+    "description": "Wireless earbuds with crisp, immersive sound and rich bass. Effective noise cancellation in a sleek, compact design. Graphite finish for a modern, stylish look. Ideal for calls, music, and workouts.",
+    "price": 99.99,
+    "old_price": 499,
+    "img": "images/products/Iphone 14 pro 1-6.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-6.png",
+    "rating": 3.1,
+    "reviews": [
+      {
+        "rating": 3,
+        "user": "Yassin Kamal",
+        "avatar": "https://i.pravatar.cc/100?img=36",
+        "comment": "These Galaxy Buds FE are a genuine surprise! Their sound is incredibly clear with powerful bass, and their noise cancellation is surprisingly good for their price. The graphite color is sleek and modern. I use them for calls, work, and sports, and I have no complaints. Truly an excellent choice in this price range."
+      },
+      {
+        "rating": 3.5,
+        "user": "Shorouk Fouad",
+        "avatar": "https://i.pravatar.cc/100?img=37",
+        "comment": "They're very comfortable in the ear and don't fall out easily, even with a lot of movement. Their battery lasts me all day with intermittent use. Calls are very clear, and the sound doesn't cut out. Very suitable for anyone looking for practical wireless earbuds at a good price."
+      },
+      {
+        "rating": 3.7,
+        "user": "Ahmed Mokhtar",
+        "avatar": "https://i.pravatar.cc/100?img=38",
+        "comment": "The noise cancellation is very effective; I can focus on music or podcasts in any crowded place. Their size is very small, and their case is sleek and easy to carry in any pocket. Connectivity with the phone is fast and hassle-free. An excellent experience with these earbuds."
+      },
+      {
+        "rating": 2.9,
+        "user": "Mona Hatem",
+        "avatar": "https://i.pravatar.cc/100?img=39",
+        "comment": "If you're looking for wireless earbuds with good sound quality, effective noise cancellation, and a reasonable price, these will be your best choice. I've tried them at the gym and on public transport, and their performance exceeded expectations. Samsung has done a great job with these earbuds."
+      },
+      {
+        "rating": 4.1,
+        "user": "Mostafa Gaber",
+        "avatar": "https://i.pravatar.cc/100?img=40",
+        "comment": "The touch controls are easy and convenient; I can control songs and calls with ease. Their microphone is very good for calls. Honestly, these earbuds offer great value for their price. I recommend them to anyone who wants excellent daily earbuds."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Apple iPad 9 10.2\" 64GB Wi-Fi Silver (MK2L3) 2021",
+    "brand": "Apple",
+    "category": "Phone",
+    "description": "Lightweight iPad perfect for productivity and entertainment. 10.2\" Retina display, long battery life, and fast performance. Great for students, reading, and light creative work. A perfect budget-friendly tablet.",
+    "price": 398,
+    "old_price": 499,
+    "img": "images/products/Iphone 14 pro 1-7.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-7.png",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "rating": 3.5,
+        "user": "Karim Ashraf",
+        "avatar": "https://i.pravatar.cc/100?img=41",
+        "comment": "This iPad 9 is excellent for studying, reading, and watching movies. Its Retina display has beautiful and very clear colors. Its battery lasts me two days with light use, which is very good. It's light and easy for me to take anywhere. It's truly the best choice in its price category."
+      },
+      {
+        "rating": 4.7,
+        "user": "Hoda Ali",
+        "avatar": "https://i.pravatar.cc/100?img=42",
+        "comment": "Honestly, this iPad changed my perception of tablets. It's very fast at opening apps and Browse, and it can run many games without issues. The 64GB storage is more than enough for my daily use. There's no lag or slowness in performance. I recommend it to any student or anyone who uses a tablet for reading and entertainment."
+      },
+      {
+        "rating": 4.5,
+        "user": "Ramy Sabry",
+        "avatar": "https://i.pravatar.cc/100?img=43",
+        "comment": "The Apple Pencil works great with it, making it ideal for drawing and note-taking. Its speakers have clear and powerful sound. It's very durable and can withstand daily use. Apple truly offers excellent quality even in its more affordable devices."
+      },
+      {
+        "rating": 3.6,
+        "user": "Lina Mahmoud",
+        "avatar": "https://i.pravatar.cc/100?img=44",
+        "comment": "The screen is large and easy on the eyes; I can read many books and watch movies in high quality. Its front camera is good for video calls. This device offers a full iPad experience at a very reasonable price. I'm very happy with my purchase."
+      },
+      {
+        "rating": 4.4,
+        "user": "Adel Fawzy",
+        "avatar": "https://i.pravatar.cc/100?img=45",
+        "comment": "Its Wi-Fi is very fast and connects me to the internet easily. The iPadOS operating system is smooth and user-friendly. This device is very suitable if you want an Apple tablet but don't want to spend too much. It offers strong performance for its basic tasks. I highly recommend it."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Apple iPhone 14 Pro 1TB Gold (MQ2V3)",
+    "brand": "Apple",
+    "category": "Phone",
+    "description": "Top-tier iPhone with massive 1TB storage for pro users. Unmatched camera quality and ultra-smooth performance. Golden finish adds a luxurious edge. Perfect for content creators and multitaskers.",
+    "price": 1499,
+    "old_price": 1600,
+    "img": "images/products/Iphone 14 pro 1TB.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1TB.png",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "rating": 3.5,
+        "user": "Mohamed Adel",
+        "avatar": "https://i.pravatar.cc/100?img=46",
+        "comment": "This iPhone 14 Pro 1TB is the pinnacle of mobile technology! The massive storage capacity means I never have to deal with storage issues at all. Its camera is professional in every sense of the word; I can produce work with it that can be displayed anywhere. For those who work in content creation or heavily use their mobile, this device will change their lives."
+      },
+      {
+        "rating": 5,
+        "user": "Soha Farouk",
+        "avatar": "https://i.pravatar.cc/100?img=47",
+        "comment": "The performance of this device is beyond description. It's the fastest and smoothest mobile I've ever used. Its gold color is very attractive and gives a feeling of luxury and sophistication. Its battery is excellent and can withstand intensive use for a long time. This device is a dream come true."
+      },
+      {
+        "rating": 4.5,
+        "user": "Yassin Hisham",
+        "avatar": "https://i.pravatar.cc/100?img=48",
+        "comment": "The ProMotion Display with Always-On Display provides an unparalleled user experience. The screen colors are incredibly true to life, giving you a sense that you're seeing reality. The Dynamic Island feature is both enjoyable and practical. Apple continues to prove that it's always ahead of its time."
+      },
+      {
+        "rating": 2.5,
+        "user": "Marwa Adel",
+        "avatar": "https://i.pravatar.cc/100?img=49",
+        "comment": "If you're looking for a phone that will last you for many years without feeling outdated, this is the ideal choice. It's very durable, and its build quality is very high. It can withstand minor bumps and scratches. Truly an investment that's worth every penny. I recommend it to anyone who wants the best phone on the market."
+      },
+      {
+        "rating": 3.5,
+        "user": "Hazem Ehab",
+        "avatar": "https://i.pravatar.cc/100?img=50",
+        "comment": "The video quality that comes out of its camera is professional, and I can shoot 4K ProRes without any storage or performance issues. The device doesn't heat up even with heavy use. The gaming experience on it is very smooth, and the graphics are superb. It's truly a complete device to the fullest extent."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Apple iPhone 14 Pro 1TB Gold (MQ2V3)",
+    "brand": "Apple",
+    "category": "Phone",
+    "description": "Massive storage and power meet in this 1TB iPhone Pro. Built for speed, photography, and professional workloads. Gold design adds a touch of sophistication. Handles anything you throw at it with ease.",
+    "price": 1499,
+    "old_price": 1600,
+    "img": "images/products/Iphone 14 pro 1TB.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1TB.png",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "rating": 3.5,
+        "user": "Samer Mahmoud",
+        "avatar": "https://i.pravatar.cc/100?img=51",
+        "comment": "This iPhone 14 Pro 1TB is a beast in performance and storage! Everything you need in one device, incredibly fast at handling heavy applications and games. The camera is unrivaled, producing photos and videos as if they were shot with an expensive professional camera. Its gold color is attractive and gives a sense of luxury and distinction. Frankly, it's the dream device for anyone who seriously uses their phone."
+      },
+      {
+        "rating": 4.6,
+        "user": "Sara Said",
+        "avatar": "https://i.pravatar.cc/100?img=52",
+        "comment": "The battery of this device deserves all the praise. It lasts me two full days of moderate use, which is an achievement for a phone with these capabilities. The screen displays rich colors and very fine details. There's no lag or stuttering in performance; everything is incredibly smooth. An excellent user experience."
+      },
+      {
+        "rating": 3.5,
+        "user": "Mostafa Kamel",
+        "avatar": "https://i.pravatar.cc/100?img=53",
+        "comment": "The Dynamic Island is a very innovative feature and adds a new dimension to the user experience. You can see notifications and activities in one place. This device is specifically designed for professional users who require unparalleled performance. I recommend it to anyone working in video editing or photography."
+      },
+      {
+        "rating": 2.9,
+        "user": "Hend Ehab",
+        "avatar": "https://i.pravatar.cc/100?img=54",
+        "comment": "If you're someone who shoots a lot of 4K videos or keeps large files, then the 1TB storage is a true treasure. No worries about running out of space at all. The sound quality during calls and music playback is excellent. Truly a comprehensive device in all aspects."
+      },
+      {
+        "rating": 5,
+        "user": "Omar Elshinnawy",
+        "avatar": "https://i.pravatar.cc/100?img=55",
+        "comment": "Its processor is very powerful, allowing it to run the heaviest games and applications without any issues. The device doesn't heat up even after long periods of intensive use. Also, the iOS operating system is very smooth and the interface is easy to use. A solid investment for several years."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+    "brand": "Sony",
+    "category": "Headphone",
+    "description": "Powerful foldable phone offering tablet-like experience. Smooth multitasking with premium performance. Stunning design with high-resolution display. Ideal for productivity on the move.",
+    "price": 1799,
+    "old_price": 2000,
+    "img": "images/products/Iphone 14 pro 1-5.png",
+    "BigImg": "images/BigImages/Iphone 14 pro 1-5.png",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "rating": 4.3,
+        "user": "Youssef Ashraf",
+        "avatar": "https://i.pravatar.cc/100?img=56",
+        "comment": "This device (Galaxy Z Fold 5) is a revolution in the world of smartphones! The very large screen, when unfolded, gives you the feeling of holding a tablet, not just a phone, and it's very comfortable for work and entertainment. Multitasking on it is incredibly smooth, and I can open multiple apps simultaneously without any issues. A truly unique and enjoyable experience."
+      },
+      {
+        "rating": 3.5,
+        "user": "Mariam Taha",
+        "avatar": "https://i.pravatar.cc/100?img=57",
+        "comment": "The device's design is very elegant in Phantom Black, and the hinge is very strong, you don't even feel it when opening and closing. The quality of both the inner and outer screens is excellent, and the colors are vibrant and very clear. The battery lasts me a full day of intensive use, which is very good for a device with these capabilities. I recommend it to anyone who loves advanced technology."
+      },
+      {
+        "rating": 3.3,
+        "user": "Karim Magdy",
+        "avatar": "https://i.pravatar.cc/100?img=58",
+        "comment": "The performance of this device is phenomenal; it runs the heaviest games and apps without any lag. The S Pen works perfectly with it, making it ideal for notes and quick sketches. The sound from the speakers is clear and powerful. If you're looking for a device that combines the power of a mobile with the flexibility of a tablet, this is the choice."
+      },
+      {
+        "rating": 3.9,
+        "user": "Salma Ayman",
+        "avatar": "https://i.pravatar.cc/100?img=59",
+        "comment": "This phone completely changed my workflow. I can get a lot of work done while outside the office, thanks to the large screen and multitasking capabilities. Its camera is excellent and takes high-quality photos and videos. It's truly value for money, and no other device on the market offers the same experience."
+      },
+      {
+        "rating": 5,
+        "user": "Ahmed Reda",
+        "avatar": "https://i.pravatar.cc/100?img=60",
+        "comment": "Despite being foldable, it's very durable, and you feel like you're holding a high-quality device. It can withstand daily use without worry. Notifications arrive on time and appear clearly on the outer screen. A very smooth and enjoyable user experience, with no noticeable flaws."
+      }
+    ]
+  }
+]

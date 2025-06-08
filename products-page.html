@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyber E-commerce</title>
+
+    <link rel="icon" href="images/Logo Vector.png">
+
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    <link rel="stylesheet" href="css/fonts.css">
+        
+    <!-- Google Fonts -->
+     <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
+</head>
+<body>
+<!-- Start Banner -->
+<header>
+        <div class="container">
+            <div class="top-header">
+                <nav class="nav">
+
+                    <a href="index.html"><img src="images/Logo Vector.png" alt="Logo"></a>
+                    
+                    <div class="content-nav">
+                      <div class="form">
+                          <img src="images/Search.png" alt="Search">
+                          <input placeholder ="Search" type="text" class="search">
+                      </div>
+                  
+                      <div class="nav-list">
+                          <ul>
+                              <li><a class="active" href="index.html">Home</a></li>
+                              <li><a href="#">About</a></li>
+                              <li><a href="#">Contact Us</a></li>
+                              <li><a href="#">Blog</a></li>
+                          </ul>
+                      </div>
+                  
+                      <div class="icons">
+                          <a href="#"><i><img src="images/Favorites.png" alt="Favorites"></i></a>
+                          <a class="cart" href="shoping-cart.html"><i>
+                            <img src="images/Cart.png" alt="Cart"></i> <span class="quantatiy-items">1</span> </a>
+                          <a href="#"><i><img src="images/User.png" alt="User"></i></a>
+                      </div>
+                    </div>
+                </nav>
+                <div class="toggle-bar">
+                    <i class="fa-solid fa-bars"></i>
+                </div> 
+            </div>
+        </div>
+        
+        <div class="bottom-header">
+            <div class="container">
+                <div class="row">
+                    <div class="column">
+                        <a href="">
+                            <img src="images/Phone.png" alt="">
+                            <p>Phones</p>
+                        </a>
+                    </div>
+
+                    <div class="column">
+                        <a href="#">
+                            <img src="images/Computers.png" alt="">
+                            <p>Computers</p>
+                        </a>
+                    </div>
+
+                    <div class="column">
+                        <a href="#">
+                            <img src="images/SmartWatch.png" alt="">
+                            <p>Smart Watches</p>
+                        </a>
+                    </div>
+
+                    <div class="column">
+                        <a href="#">
+                            <img src="images/Camera.png" alt="">
+                            <p>Cameras</p>
+                        </a>
+                    </div>
+
+                    <div class="column">
+                        <a href="#">
+                            <img src="images/headphoneicon.png" alt="">
+                            <p>Headphones</p>
+                        </a>
+                    </div>
+
+                    <div class="column">
+                        <a href="#">
+                            <img src="images/SmartWatch.png" alt="">
+                            <p>Gaming</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+</header>
+
+<div class="menu-page">
+    <div class="container">
+        <a href="index.html">Home</a>
+        <i class="fa-solid fa-chevron-right"></i>
+        <a href="index.html">Catalog</a>
+        <i class="fa-solid fa-chevron-right"></i>
+        <h1><a class="active" href="products-page.html">Smartphones</a></h1>
+    </div>
+</div>
+
+<div class="items-produts-page">
+    <div class="container">
+        <div class="content">
+            <div class="left-column">
+                
+                <div class="content-left-column">
+                    <div class="column close-phone">
+                        <div><i class="fas fa-chevron-left"></i></div>
+                        <h3>Filters</h3>
+                    </div>
+                    <div class="column price">
+                    <div class="head-column">
+                        <h3>Price</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                        <div class="content-column-menu">
+                            <div class="content-column">
+                                <div class="head-content-column">
+                                    <p>From</p>
+                                    <p>To</p>
+                                </div>
+                                <div class="inputs">
+                                    <input data-id ="1" type="number" placeholder="100">
+                                    <input data-id ="2" type="number" placeholder="1000">
+                                </div>
+                                <div class="range-slider">
+                                    <input data-id ="1" type="range" id="min" min="100" max="5000" value="100" step="10">
+                                    <input data-id ="2" type="range" id="max" min="100" max="5000" value="2500" step="10">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column brand">
+                    <div class="head-column">
+                        <h3>Brand</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                    <div class="content-column-menu">
+                            <div class="search-box">
+                                <i><img src="images/Search.png" alt=""></i>
+                                <input type="text" placeholder="Search">
+                            </div>
+                            <div class="content">
+                        <div>
+                            <input checked id="apple" type="checkbox">
+                            <label for="apple">Apple <span>110</span></label>
+                        </div>
+
+                        <div>
+                            <input id="samsung" type="checkbox">
+                            <label for="samsung">Samsung <span>125</span></label>
+                        </div>
+
+                        <div>
+                            <input id="xiaomi" type="checkbox">
+                            <label for="xiaomi">Xiaomi <span>68</span></label>
+                        </div>
+
+                        <div>
+                            <input id="poco" type="checkbox">
+                            <label for="poco">Poco <span>44</span></label>
+                        </div>
+
+                        <div>
+                            <input id="oppo" type="checkbox">
+                            <label for="oppo">OPPO <span>36</span></label>
+                        </div>
+
+                        <div>
+                            <input id="honor" type="checkbox">
+                            <label for="honor">Honor <span>10</span></label>
+                        </div>
+
+                        <div>
+                            <input id="motorola" type="checkbox">
+                            <label for="motorola">Motorola <span>34</span></label>
+                        </div>
+
+                        <div>
+                            <input id="nokia" type="checkbox">
+                            <label for="nokia">Nokia <span>22</span></label>
+                        </div>
+
+                        <div>
+                            <input id="realme" type="checkbox">
+                            <label for="realme">Realme <span>35</span></label>
+                        </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="column memory">
+                    <div class="head-column">
+                        <h3>Built-in memory</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                    <div class="content-column-menu">
+                        <div class="search-box">
+                            <i><img src="images/Search.png" alt=""></i>
+                            <input type="text" placeholder="Search">
+                        </div>
+
+                        <div class="content">
+                            <div>
+                                <input type="checkbox" id="size-16">
+                                <label for="size-16">16GB <span>65</span></label>
+                            </div>
+
+                            <div>
+                                <input type="checkbox" id="size-32">
+                                <label for="size-32">32GB <span>123</span></label>
+                            </div>
+
+                            <div>
+                                <input type="checkbox" id="size-64">
+                                <label for="size-64">64GB <span>48</span></label>
+                            </div>
+
+                            <div>
+                                <input type="checkbox" id="size-128">
+                                <label for="size-128">128GB <span>50</span></label>
+                            </div>
+
+                            <div>
+                                <input type="checkbox" id="size-256">
+                                <label for="size-256">256GB <span>24</span></label>
+                            </div>
+
+                            <div>
+                                <input type="checkbox" id="size-512">
+                                <label for="size-512">512GB <span>8</span></label>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    <div class="column Protection">
+                    <div class="head-column">
+                        <h3>Protection class</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                    </div>
+                    <div class="column Screen">
+                    <div class="head-column">
+                        <h3>Screen diagonal</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                    </div>
+                    <div class="column Screen-type">
+                    <div class="head-column">
+                        <h3>Screen type</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                    </div>
+                    <div class="column Battery">
+                    <div class="head-column">
+                        <h3>Battery capacity</h3>
+                        <i class="fas fa-chevron-up"></i>
+                    </div>
+                    </div>
+                </div>
+                <div class="button-apply-left-column">
+                    <button>Apply</button>
+                </div>
+            </div>
+            <div class="items-product">
+                <div class="products-page">
+                    <div class="container">
+                        <div class="headtags">
+                            <p class="selectedproducts">Selected Products: <span>85</span></p>
+                            <div class="filter-rating">
+                                <div>
+                                    <select>
+                                        <option   option value="By rating">By Rating</option>
+                                    </select>
+                                    <span><i class="fas fa-chevron-up"></i></span>
+                                </div>
+                                <div class="filter">
+                                    <button>Filter</button>
+                                    <span><img src="images/Filter Icon.png" alt=""></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="grid-products">
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-items-product">
+                    <div class="content-footer-items-product">
+                        <span><i class="fa-solid fa-chevron-left"></i></span>
+                            <div class="number-page">
+                                <div class="box active">1</div>
+                                <div class="box">2</div>
+                                <div class="box">3</div>
+                                <div class="box">....</div>
+                                <div class="box">12</div>
+                            </div>
+                        <span><i class="fa-solid fa-chevron-right"></i></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Start Footer -->
+
+<footer>
+    <div class="content-footer">
+        <div class="container">
+            <div class="boxs">
+                <div class="box big-box">
+                    <div class="content-big-box">
+                        <img src="images/WhiteLogo.png" alt="Logo">
+                        <p>We are a residential interior design firm located in Portland. Our boutique-studio offers more than</p>
+                    </div>
+                </div>
+                <div class="grid">
+                    <div class="box">
+                        <h2>Services</h2>
+                        <ul>
+                            <li><a href="#">Bonus Program</a></li>
+                            <li><a href="#">Gift Cards</a></li>
+                            <li><a href="#">Credit And Payment</a></li>
+                            <li><a href="#">Service contracts</a></li>
+                            <li><a href="#">Non-cash Acount</a></li>
+                            <li><a href="#">Payment</a></li>
+                        </ul>
+                    </div>
+                    <div class="box">
+                        <h2>Assistance to the buyer</h2>
+                        <ul>
+                            <li><a href="#">Find An Order</a></li>
+                            <li><a href="#">Terms Of Delivery</a></li>
+                            <li><a href="#">Exchange And Return Of Goods</a></li>
+                            <li><a href="#">Guarantee</a></li>
+                            <li><a href="#">Frequently Asked Questions</a></li>
+                            <li><a href="#">Terms Of Use Of The Site</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="icons-social">
+                <a class="facebook" href="#"><i class="fa-brands fa-facebook"></i></a>
+                <a class="tiktok" href="#"><i class="fa-brands fa-tiktok"></i></a>
+                <a class="instagram" href="#"><i class="fa-brands fa-instagram"></i></a>
+                <a class="twitter" href="#"><i class="fa-brands fa-x-twitter"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- End Footer -->
+
+
+<script src="js/additems.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
